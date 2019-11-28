@@ -10,7 +10,7 @@ im = Image.open('photo.jpg')
 im.save('photo.png')
 ```
 
-If you want to covert multiple files in a directory, use the following code from [MultipleFiles.py](https://github.com/elibooklover/ConvertingPhotos/blob/master/converter.py):
+If you want to covert multiple files in a directory, use the following code from [MultipleFiles.py](https://github.com/elibooklover/ConvertingPhotos/blob/master/MultipleFiles.py):
 
 ```
 from PIL import Image
