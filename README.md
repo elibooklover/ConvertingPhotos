@@ -1,5 +1,5 @@
 # ConvertingPhotos
-Converting all files (.jpg to .png) in Python
+Converting all files (.jpg to .png) with Python
 
 If you want to simply covert a single file (.jpg to .png), use the following code from [SingleFile.py](https://github.com/elibooklover/ConvertingPhotos/blob/master/SingleFile.py):
 
